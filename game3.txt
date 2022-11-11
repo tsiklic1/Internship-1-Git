@@ -1,6 +1,6 @@
-Andrea ima 0 pobjeda i 0 poraza
-Toma ima 0 pobjeda i 0 poraza
+Andrea ima 0 pobjeda i 1 poraz
+Toma ima 1 pobjedu i 0 poraza
 
 . . .
-X O .
+X O O
 . X O
