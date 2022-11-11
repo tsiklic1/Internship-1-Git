@@ -3,4 +3,4 @@ Toma ima 1 pobjedu i 0 poraza
 
 X O .
 X O O
-O X .
+O X X
